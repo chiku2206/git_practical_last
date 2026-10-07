@@ -1,2 +1,2 @@
-hello adding a 1st line namrata in rebase
+adding last update line on main from c commit
 adding new feature adding line in rebse
